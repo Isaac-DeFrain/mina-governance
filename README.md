@@ -55,4 +55,3 @@ Copyright 2022 Granola Systems Inc.
 
 Free use of this software is granted under the terms of the Mozilla
 Public License 2.0.
-
